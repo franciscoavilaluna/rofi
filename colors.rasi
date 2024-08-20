@@ -1,0 +1,13 @@
+* {
+    selected-normal-foreground:  #000000;
+    foreground:                  #AAAAAA;
+    normal-foreground:           @foreground;
+    lightbg:                     #000000;
+    background:                  #000000;
+    selected-normal-background:  #FFFFFF;
+    border-color:                #ABABAB;
+    spacing:                     4;
+    separatorcolor:              #ABABAB;
+    background-color:            #000000;
+}
+
