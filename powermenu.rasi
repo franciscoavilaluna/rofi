@@ -1,5 +1,5 @@
 configuration {
-    font:                           "CaskaydiaCove Nerd Font 10";
+    font:                           "CommitMono Nerd Font 10";
     show-icons:                     false;
     icon-theme: 		    "Arc-X-D";
     scroll-method:                  0;

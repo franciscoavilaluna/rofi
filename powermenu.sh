@@ -15,7 +15,7 @@ $shutdown" | rofi -dmenu\
                   -i\
                   -p "Power"\
                   -config "~/.config/rofi/powermenu.rasi"\
-                  -font "CaskaydiaCove Nerd Font 10"\
+                  -font "CommitMono Nerd Font 10"\
                   -width "15"\
                   -lines 5\
                   -line-margin 3\
